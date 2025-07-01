@@ -12,7 +12,7 @@ I was lucky to grow up in the village of Agioi Pantes on [Zakynthos](https://en.
 
 ---
 
-### Research Interests
+## Research Interests
 
 <table>
   <tr>
