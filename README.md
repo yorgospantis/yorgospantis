@@ -33,11 +33,12 @@ I was lucky to grow up in the village of Agioi Pantes on [Zakynthos](https://en.
 
 
 ## Contact
-🌐 [yorgospantis.com](https://yorgospantis.com/)
-📧 [pantisyorgos@gmail.com](mailto:pantisyorgos@gmail.com)  
+
+🌐 [yorgospantis.com](https://yorgospantis.com/) | 📧 [pantisyorgos@gmail.com](mailto:pantisyorgos@gmail.com)  
 🎓 [Google Scholar](https://scholar.google.com/citations?user=SkQq70gAAAAJ&hl=en&oi=ao)  
 💻 [GitHub](https://github.com/yorgospantis)  
 🔗 [LinkedIn](https://www.linkedin.com/in/yorgospantis)  
-❌ [X](https://x.com/yorgos_pantis)  
+❌ [X (Twitter)](https://x.com/yorgos_pantis)
+
 
 ---
