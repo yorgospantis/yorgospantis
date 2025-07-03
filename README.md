@@ -5,6 +5,7 @@ I am a first year PhD student at the [National and Kapodistrian University of At
 Previously, I conducted research at [DTU](https://www.compute.dtu.dk/), [CTU](https://fel.cvut.cz/en) [Athena RC](https://www.athenarc.gr/en/imsi), and [Max Planck](https://www.mis.mpg.de/), where I specialized in Machine Learning, Optimization, and Natural Language Processing. I also have a solid Statistical and Mathematical background acquired through master's and bachelor's studies at the [University of Oxford](https://www.stats.ox.ac.uk/) and [University of Patras](https://www.math.upatras.gr/en).
 
 Before all that, I was lucky to grow up in the village of Agioi Pantes on [Zakynthos](https://en.wikipedia.org/wiki/Zakynthos), an island in Greece; a place full of natural beauty and history.
+
 ---
 
 ## Research Interests
