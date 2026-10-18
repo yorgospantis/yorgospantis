@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Yorgos+Pantis)](https://git.io/typing-svg)
 
-I am a 2nd-year PhD student at the [National and Kapodistrian University of Athens](https://www.di.uoa.gr/en) and [Archimedes, Athena Research Centre](https://archimedesai.gr/en/), working on theory-driven Machine Learning models, including Transformers and Neural Networks. I am fortunate to be supervised by [Christos Tzamos](https://tzamos.com)
+I am a 3rd-year Ph.D. student at the [University of Athens](https://www.di.uoa.gr/en) and [Archimedes Unit](https://archimedesai.gr/en/), where I work on theory-driven machine learning models under the supervision of Christos Tzamos. I was also a visiting student at [MIT CSAIL](https://www.csail.mit.edu/). My research focuses on neural learning and reasoning across different architectures such as Neural Networks and Transformers. 
 
 Previously, I conducted research at [Technical University of Denmark](https://www.compute.dtu.dk/), [Czech Technical University](https://fel.cvut.cz/en), [Athena Research Center](https://www.athenarc.gr/en/imsi), and [Max Planck](https://www.mis.mpg.de/), where I specialized in Machine Learning, Optimization, and Natural Language Processing. I also have a solid Statistical and Mathematical background acquired through master's and bachelor's studies at the [University of Oxford](https://www.stats.ox.ac.uk/) and [University of Patras](https://www.math.upatras.gr/en).
 
